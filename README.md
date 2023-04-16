@@ -50,6 +50,6 @@
 <br>
 <br>
 
-<p align="center"> <div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emirkugic&show_icons=true&locale=en&layout=compact&hide=css" alt="emirkugic" />
-</div> </p>
+</div>
