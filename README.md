@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emir Kugić</h1>
 <h3 align="center">A second year IT student at Burch University</h3>
 
+- [Sorting Algorithms Visualizer with React](https://github.com/emirkugic/React-Sorting-Algorithms-Visualizer)
+
+- [Game of Life with React](https://github.com/emirkugic/React-Game-of-Life)
+
 - 📫 How to reach me **emirkugic0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
