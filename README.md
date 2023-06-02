@@ -13,6 +13,8 @@
 - [Game of Life with React](https://github.com/emirkugic/React-Game-of-Life)
 
 - [Sorting Algorithms Visualizer with React](https://github.com/emirkugic/React-Sorting-Algorithms-Visualizer)
+ 
+- [Quiz Android App with Kotlin](https://github.com/emirkugic/JavaQuizApp)
 
 </p>
 
