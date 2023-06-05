@@ -14,7 +14,7 @@
 
 - [Sorting Algorithms Visualizer with React](https://github.com/emirkugic/React-Sorting-Algorithms-Visualizer)
  
-- [Quiz App with Kotlin[WIP]](https://github.com/emirkugic/JavaQuizApp)
+- [Quiz App with Kotlin](https://github.com/emirkugic/JavaQuizApp)
 
 </p>
 
