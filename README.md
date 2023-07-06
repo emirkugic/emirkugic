@@ -24,7 +24,13 @@
 <h3> To reach me, send me an email : <b><a href="mailto:emirkugic0@gmail.com">emirkugic0@gmail.com</a></b></h3>
 
 
-<h3 align="left">Or connect with me:</h3><p align="left"><a href="https://linkedin.com/in/emir-kugić-30b799233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emir-kugić-30b799233/" height="30" width="40" /></a>
+<h3 align="left">Or connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/emir-kugić-30b799233/" target="blank">
+    <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emir-kugić-30b799233/" height="30" width="40" />
+  </a>
+</p>
+
 
 
 
