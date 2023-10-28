@@ -15,7 +15,11 @@
 - [Braille simulator for visually impaired with C++ and Arduino](https://github.com/emirkugic/Arduino-Braille-helper-for-visually-impaired)
 
 - [Game of Life with React](https://github.com/emirkugic/React-Game-of-Life)
+  
+- [Show Password Chrome Extension](https://github.com/emirkugic/Show-Password-Chrome-Extension)
    
+- [Youtube Video Scrapper](https://github.com/emirkugic/youtube-scrapper)
+
 
 </p>
 
