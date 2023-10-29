@@ -19,7 +19,7 @@
 - [Show Password Chrome Extension](https://github.com/emirkugic/Show-Password-Chrome-Extension)
    
 - [Youtube Video Scrapper](https://github.com/emirkugic/youtube-scrapper)
-- 
+
 - [Tetris with JavaScript](https://github.com/emirkugic/Javascript-Tetris)
 
 
