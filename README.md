@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I am Emir Kugić</h1>
-<h3 align="center">A third year IT student at Burch University</h3>
 
-<h3 align="left">Here are some of my best projects:</h3>
+<h3 align="left">Here are some of my projects:</h3>
 <p align="left">
 
 
