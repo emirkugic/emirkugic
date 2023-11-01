@@ -7,8 +7,6 @@
 
 - [Sorting Algorithms Visualizer with React](https://github.com/emirkugic/React-Sorting-Algorithms-Visualizer)
 
-- [Quiz App with Kotlin](https://github.com/emirkugic/JavaQuizApp)
-
 - [Linux Shell implementation using C](https://github.com/emirkugic/Shell-Implementation-with-C)
 
 - [Braille simulator for visually impaired with C++ and Arduino](https://github.com/emirkugic/Arduino-Braille-helper-for-visually-impaired)
