@@ -25,7 +25,7 @@
 <h3> To reach me, send me an email : <b><a href="mailto:emirkugic0@gmail.com">emirkugic0@gmail.com</a></b></h3>
 
 
-<h3 align="left">Or connect with me on [LinkedIn](https://linkedin.com/in/emir-kugić-30b799233/)</h3>
+<h3 align="left">Or connect with me on [LinkedIn](https://linkedin.com/in/emir-kugić-30b799233/) </h3>
 
 
 <p align="left">
