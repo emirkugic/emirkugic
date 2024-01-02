@@ -27,11 +27,6 @@
 <h3 align="left">Or connect with me on <a href="https://linkedin.com/in/emir-kugić-30b799233/">LinkedIn</a></h3>
 
 
-<h3 align="left">Or connect with me on [LinkedIn](https://linkedin.com/in/emir-kugić-30b799233/) </h3>
-
-
-
-
 
 <h3 align="left">Languages and Tools:</h3> 
 
