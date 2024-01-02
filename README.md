@@ -26,6 +26,14 @@
 
 <h3 align="left">Or connect with me on <a href="https://linkedin.com/in/emir-kugić-30b799233/">LinkedIn</a></h3>
 
+<h2 align="center">🌟 Internship Experiences</h2>
+<p align="center">
+  - <b>PHP Developer Intern</b> at SKIM (January 2024 – April 2024): Focused on developing dynamic web applications using PHP.
+  - <b>Mobile Programming Intern</b> at LANACO (August 2023 – September 2023): Gained hands-on experience in mobile app development.
+  - <b>DevOps Intern</b> at Imperum (June 2023 – September 2023): Engaged in various DevOps practices in a remote summer internship.
+</p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3> 
