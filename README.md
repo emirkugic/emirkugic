@@ -2,9 +2,9 @@
 
 <h2 align="center">I am a Fullstack Developer, primarily focused on Backend Development</h2>
 
-<h3 align="center">To reach me, send me an email: <b><a href="mailto:emirkugic0@gmail.com">emirkugic0@gmail.com</a></b></h3>
+<h3 align="center">To reach me, send me an email: <b><a href="mailto:emirkugic0@gmail.com" target="_blank">emirkugic0@gmail.com</a></b></h3>
 
-<h3 align="center">Or connect with me on <a href="https://linkedin.com/in/emir-kugić-30b799233/">LinkedIn</a></h3>
+<h3 align="center">Or connect with me on <a href="https://linkedin.com/in/emir-kugić-30b799233/" target="_blank">LinkedIn</a></h3>
 
 <h3 align="center">Languages and Tools:</h3> 
 
@@ -33,7 +33,6 @@
   </a>
 </p>
 
-
 <h4 align="center">Frontend Development:</h4>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -50,11 +49,9 @@
   </a>
 </p>
 
-
 <h4 align="center">Mobile Development:</h4>
 <p align="center">
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/flutter-icon-2048x2048-ufx4idi8.png" alt="flutter" width="40" height="40"/>
   </a>
 </p>
-
