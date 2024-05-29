@@ -4,7 +4,7 @@
 
 <h3 align="center">To reach me, send me an email: <b><a href="mailto:emirkugic0@gmail.com" target="_blank">emirkugic0@gmail.com</a></b></h3>
 
-<h3 align="center">Or connect with me on <a href="https://linkedin.com/in/emir-kugić-30b799233/" target="_blank">LinkedIn</a></h3>
+<h3 align="center">Connect with me on <a href="https://linkedin.com/in/emir-kugić-30b799233/" target="_blank">LinkedIn</a></h3>
 
 <h3 align="center">Or simply visit my <a href="https://emirkugic.tech" target="_blank">portofolio website</a></h3>
 
