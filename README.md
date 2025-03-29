@@ -1,16 +1,17 @@
-<h3 align="center">Fullstack Developer</h3>
+<div align="center" style="background-color: #e9eaec; padding: 20px;">
 
-<p align="center">
-  <a href="mailto:emirkugic0@gmail.com" target="_blank">Email</a> | 
-  <a href="https://linkedin.com/in/emir-kugić-30b799233/" target="_blank">LinkedIn</a>
-</p>
+  <h1>Emir Kugić</h1>
+  <h3>Fullstack Developer</h3>
 
-<hr />
+  <p>
+    <a href="mailto:emirkugic0@gmail.com" target="_blank">Email</a> | 
+    <a href="https://linkedin.com/in/emir-kugić-30b799233/" target="_blank">LinkedIn</a>
+  </p>
 
-<h4 align="center">Technologies & Tools</h4>
+  <hr />
 
-<div align="center">
-  
+  <h4>Technologies & Tools</h4>
+
   <!-- Backend -->
   <strong>Backend:</strong><br />
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
